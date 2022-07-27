@@ -10,10 +10,10 @@ Objectives:
 
 5. Perform the two-sample T-test on the following pairs of regions to check if the mean property prices in these regions differ from each other.
 
-      ['King, ON', 'Oakville, ON']
+      ['King', 'Oakville']
 
-      ['Brampton, ON', 'Mississauga, ON']
+      ['Brampton', 'Mississauga']
 
-      ['Oshawa, ON', 'Ajax, ON']
+      ['Oshawa', 'Ajax']
 
-      ['Aurora, ON', 'Richmond Hill, ON']
+      ['Aurora', 'Richmond Hill']
